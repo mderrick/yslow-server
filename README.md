@@ -1,6 +1,10 @@
 # ySlow Express server
 
-Uses http://yslow.org/phantomjs/
+Uses http://yslow.org/phantomjs/ with an express server
+
+## Demo
+
+[View demo](http://yslow.mattderrick.co.uk/?url=http://mattderrick.co.uk&info=all)
 
 ## Quick Start
 
